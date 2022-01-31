@@ -10,4 +10,4 @@ Results
 
 Multiclass model builder has slightly slower scores, see .mbconfig files.
 
-The results above, especially ModelBuilder's low scores for LightGBM, suggest there may be some misconfiguration in LightGBM API.
+The results above, especially ModelBuilder's low scores for LightGBM, suggest there may be some misconfiguration in LightGBM .NET interface.
