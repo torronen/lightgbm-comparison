@@ -11,4 +11,5 @@ Results for Titanic dataset (train.csv for training, test.csv for validation)
 
 Results should also be compared with feature_fraction and other parameters which use randomity.
 
+Suggested changes (not reflected in results yet)
 https://github.com/dotnet/machinelearning/pull/6064
